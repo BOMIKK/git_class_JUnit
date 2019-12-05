@@ -3,6 +3,7 @@ package test;
 //local by BOMIKK
 //fetch test1
 //1. localBranch Test
+//2. new Test
 
 public class main {
 	
